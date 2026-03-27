@@ -1,5 +1,4 @@
-# NexoOS
+# Nexo-software
 
 ## What is this used for?
-- an OS with a kernel built for macOS
-- an OS built on the basics os macOS!
+- as many reposotories combined in GitHub from many conpanies and individuals to creating the buggest repository ever made!
